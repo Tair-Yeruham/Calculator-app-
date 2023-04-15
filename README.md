@@ -1,6 +1,6 @@
 # Calculator app 
 
-![Screenshot](calc1.png)
+![calc11](calc1.png)
 
-![Screenshot](calc2.png)
+![calc2](calc2.png)
 
